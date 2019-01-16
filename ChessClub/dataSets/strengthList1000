@@ -1,0 +1,1001 @@
+listID;memberNumber;playerRating;tournamentName;tournamentDate
+1;1999;21;"Kirlin; Cronin and O'Hara";04/26/2016
+2;1991;-10;"Stehr; Kub and McDermott";04/03/2018
+3;1985;17;Bauch-Turner;05/25/2018
+4;2007;2;Dicki-Olson;05/06/2016
+5;1993;7;Marvin Group;11/27/2018
+6;2002;-13;Abshire LLC;09/13/2017
+7;2011;15;"Bogisich; Kilback and Ullrich";12/17/2015
+8;1991;19;"Stoltenberg; Bergstrom and Fahey";05/13/2015
+9;2002;-12;Terry and Sons;12/20/2017
+10;1993;18;Kozey-Runolfsson;10/28/2017
+11;2010;2;Nikolaus and Sons;03/01/2018
+12;2012;1;"Powlowski; Nikolaus and Reichel";04/14/2017
+13;2009;18;Turcotte and Sons;07/20/2017
+14;2008;16;Conn-Armstrong;12/11/2015
+15;1999;20;Robel-Haley;12/18/2016
+16;1986;15;"Miller; Runolfsson and Bergnaum";03/15/2017
+17;2011;-9;Bruen Inc;03/27/2018
+18;2012;-11;Price Group;05/10/2015
+19;2008;21;Marks-Beer;08/23/2016
+20;2006;1;Gulgowski-Torphy;08/28/2018
+21;1994;-10;Marks-Rice;05/15/2018
+22;2007;-14;Kuhlman-Gerlach;10/28/2018
+23;1985;-8;Kuhn-Considine;06/10/2018
+24;2011;12;Emmerich Group;02/03/2018
+25;2012;-1;"Becker; Harris and Schamberger";03/23/2015
+26;2012;8;Zieme Inc;08/01/2016
+27;2011;15;Stracke LLC;11/30/2017
+28;2011;24;Leannon and Sons;02/22/2018
+29;2000;-9;"McClure; Mueller and Becker";08/28/2015
+30;1985;-5;Hane-Toy;04/01/2015
+31;1994;0;"Bednar; Hettinger and Lesch";07/01/2015
+32;1990;20;"Kuhn; Schamberger and King";12/11/2016
+33;1998;-11;"Grady; Barrows and Bernhard";10/19/2015
+34;1985;4;Lowe and Sons;03/01/2018
+35;2003;-12;"Feil; Bosco and Cole";10/06/2015
+36;1996;-11;Corkery Inc;10/10/2015
+37;2011;-1;Mayert-Reichel;11/21/2015
+38;1997;7;Marquardt-Dicki;06/13/2017
+39;1990;-10;Beahan-Rolfson;11/03/2017
+40;2005;18;"Kassulke; Terry and Hills";01/09/2016
+41;2009;3;Brown-Mante;09/29/2018
+42;2005;25;Bergstrom LLC;02/13/2018
+43;2002;1;"Larkin; Pollich and Hettinger";07/29/2015
+44;2008;12;Parker and Sons;05/26/2016
+45;1997;-5;Nolan-D'Amore;11/13/2015
+46;1986;3;Schuster and Sons;07/15/2017
+47;2012;-6;"Ward; Bartell and Runolfsson";08/18/2017
+48;2004;1;Beier-Fahey;05/01/2015
+49;2004;-13;Bruen-Orn;06/29/2016
+50;1992;6;"O'Connell; Keeling and Fritsch";02/17/2016
+51;1999;7;Lebsack-Collier;09/25/2015
+52;1999;15;Bernhard and Sons;11/12/2015
+53;1986;-4;Thiel-Rowe;04/25/2017
+54;2012;8;Raynor-Breitenberg;12/29/2015
+55;2008;2;Weissnat LLC;07/03/2016
+56;2004;-7;Gusikowski-O'Conner;06/20/2015
+57;2011;-14;Grady-Collier;07/27/2018
+58;2002;-14;"Johnson; Medhurst and Tremblay";09/26/2015
+59;2010;-9;Kohler-Senger;11/06/2015
+60;1993;14;"Hermiston; Gorczany and Lemke";05/21/2018
+61;2001;17;"Wintheiser; Quitzon and Hickle";02/13/2017
+62;1991;6;Bergnaum-Lowe;04/21/2016
+63;2009;15;O'Keefe Inc;10/06/2018
+64;1993;-7;Bartell Group;08/04/2016
+65;2006;9;Donnelly-Littel;08/04/2016
+66;2011;-9;Wiegand-Steuber;01/10/2017
+67;2005;3;Hammes-Berge;11/19/2018
+68;2011;0;Bogan Inc;03/01/2016
+69;2006;25;"Champlin; Adams and Schmitt";09/06/2018
+70;1992;-14;Cummerata LLC;07/03/2018
+71;2003;-11;"Lindgren; Simonis and Collier";01/27/2017
+72;1991;12;Prosacco-Crooks;05/16/2018
+73;1996;18;Bradtke and Sons;05/13/2015
+74;2001;-7;"Daugherty; Pollich and Stark";04/01/2016
+75;2001;-1;Mosciski and Sons;12/23/2017
+76;1996;21;Kozey-Quigley;04/14/2018
+77;1989;8;Casper-Bartoletti;04/27/2018
+78;1977;-14;Carroll LLC;01/08/2016
+79;2009;0;Torphy LLC;09/17/2015
+80;2006;16;"Littel; Hane and Bechtelar";07/27/2017
+81;1985;-14;"Beer; Renner and Gutmann";03/11/2017
+82;1993;4;Roberts Group;01/07/2017
+83;2009;11;"Abshire; Hand and Rippin";09/11/2016
+84;1986;4;"Kuhic; Parisian and Funk";10/04/2016
+85;1992;-13;Corkery and Sons;03/13/2017
+86;2007;-8;"McCullough; Abshire and Hansen";04/03/2016
+87;1993;16;"Howell; Kirlin and Witting";01/16/2018
+88;1998;4;"Koepp; Anderson and Torp";06/28/2017
+89;1973;1;Krajcik Inc;05/26/2018
+90;1996;23;Harvey-Bode;03/30/2015
+91;2002;19;"Glover; Kutch and Kovacek";05/02/2016
+92;1985;-4;"Farrell; O'Keefe and Schneider";04/16/2017
+93;2005;-14;"Heidenreich; Rodriguez and Cormier";05/14/2016
+94;2006;19;Pacocha-Kunze;04/21/2017
+95;2001;23;Abernathy Inc;11/21/2018
+96;1994;23;"Jenkins; Smith and Yost";05/23/2016
+97;2007;24;"Dach; Farrell and Schultz";02/01/2016
+98;1999;-10;Renner-Hirthe;01/03/2016
+99;1999;-9;Crist-Dickinson;08/07/2016
+100;2011;3;Gutkowski-Bradtke;08/24/2017
+101;2008;20;"Reichert; Howell and Mosciski";02/02/2018
+102;1967;19;Veum Inc;01/12/2016
+103;1991;1;Crooks LLC;06/21/2017
+104;2009;5;Kunde LLC;01/22/2016
+105;2005;-14;Kulas-Brekke;09/14/2017
+106;1992;3;Moen-Sanford;12/08/2017
+107;1996;7;Glover-Hartmann;07/13/2017
+108;1984;9;Doyle-Adams;06/09/2018
+109;1999;3;Keebler-Keeling;08/26/2018
+110;2008;18;Rogahn Inc;08/31/2018
+111;1988;7;Morissette-Langworth;05/05/2017
+112;2011;7;"Klocko; Predovic and Bechtelar";05/25/2015
+113;2008;25;Upton-Rowe;05/31/2018
+114;2013;-6;Brown Group;01/11/2017
+115;2008;23;Hahn and Sons;02/22/2017
+116;1973;9;Miller LLC;03/08/2016
+117;1998;0;Kerluke-Little;05/28/2018
+118;2010;-4;"Hyatt; Stehr and Zulauf";10/06/2018
+119;1995;0;Schmidt-Barton;04/06/2016
+120;1994;15;Zulauf-Kreiger;03/18/2016
+121;1997;25;Bauch-Little;05/18/2017
+122;2002;-15;Heaney Group;09/09/2015
+123;2008;7;Will and Sons;01/03/2018
+124;2010;24;"Hahn; Jones and Ferry";03/31/2016
+125;2005;-13;Hyatt-Lesch;01/21/2018
+126;2008;1;Pollich-Oberbrunner;08/16/2018
+127;1992;18;Schiller-Ankunding;09/25/2017
+128;2012;10;Runolfsson-Gleichner;03/30/2018
+129;1989;21;"Rowe; Dibbert and Torphy";06/20/2015
+130;2000;-4;Abbott Inc;02/09/2016
+131;2006;-1;Mertz Group;08/16/2017
+132;1998;0;Maggio Inc;06/26/2018
+133;2006;1;Nienow and Sons;01/02/2018
+134;1999;1;"Bogan; Hand and Jacobs";03/05/2017
+135;1996;12;Becker-Reichel;04/22/2018
+136;2011;-1;"Marquardt; Corwin and Bruen";03/17/2016
+137;2004;-15;"Goodwin; Eichmann and Heathcote";12/01/2016
+138;2004;10;Howell LLC;08/10/2017
+139;1995;16;Wiegand-Gerhold;04/20/2017
+140;2002;10;Boyer and Sons;03/27/2015
+141;2003;1;"Cronin; Leuschke and Windler";10/26/2018
+142;2011;-7;Mante Inc;01/19/2016
+143;2006;-14;"Ernser; Goyette and Schiller";04/17/2015
+144;2010;-4;"Jenkins; Prosacco and Dare";03/21/2018
+145;2009;-2;Schimmel and Sons;05/02/2015
+146;2002;25;Gislason and Sons;02/11/2016
+147;2004;14;Bogan Inc;10/14/2016
+148;1990;22;Kub LLC;07/02/2015
+149;1973;-8;Greenfelder-Goodwin;01/06/2017
+150;2007;-2;Lynch-Lowe;12/17/2017
+151;2009;-5;Schimmel-Harber;09/13/2017
+152;1992;2;Bahringer-Schuster;06/17/2018
+153;1992;-13;Sipes-Schneider;05/21/2015
+154;1988;21;"Ritchie; Nolan and Herman";07/28/2016
+155;2007;24;Greenfelder Inc;12/08/2016
+156;1992;-6;"Kutch; Stehr and Dickens";02/24/2018
+157;1992;4;Kilback and Sons;07/14/2018
+158;2010;-5;Lind-Bartoletti;08/12/2015
+159;2007;-9;Rutherford-Parker;12/28/2015
+160;1985;18;Cassin-Beahan;02/05/2018
+161;2001;-15;Harris-Reynolds;07/23/2016
+162;1992;-2;Kessler-Gleichner;03/31/2015
+163;2010;17;Hettinger LLC;03/21/2016
+164;2006;-15;Waters-Bergnaum;06/11/2016
+165;1997;-5;"Waelchi; Boehm and Kertzmann";06/16/2017
+166;2004;11;Reinger LLC;08/09/2018
+167;2005;9;"Effertz; Tillman and Hudson";02/01/2017
+168;2005;6;Hauck-Kuhn;10/31/2017
+169;2000;20;Kulas and Sons;03/19/2015
+170;2001;11;Cartwright LLC;11/25/2018
+171;1989;-13;Gleichner and Sons;04/19/2018
+172;2012;13;"Schmidt; Pfannerstill and Leffler";03/27/2017
+173;1987;21;Walker-Yost;10/11/2017
+174;2005;6;Larson-Luettgen;08/21/2015
+175;2008;-12;"Haley; Willms and Moore";10/11/2017
+176;1992;5;Schulist LLC;01/25/2016
+177;2012;-6;Schiller LLC;11/20/2016
+178;2001;9;Koelpin-Bartoletti;01/06/2016
+179;1995;4;Sanford-Boehm;11/30/2017
+180;2012;-5;Wintheiser-Rippin;09/26/2017
+181;2007;-15;Murray and Sons;02/13/2018
+182;1993;0;Gutmann-Bins;11/18/2017
+183;1995;13;"Renner; Harvey and Turcotte";06/10/2015
+184;2000;-8;Hackett Inc;08/21/2017
+185;2002;3;"Kuhn; Harber and Corkery";07/14/2017
+186;1994;15;Bartoletti-Dare;07/04/2017
+187;2011;0;McClure Group;08/15/2015
+188;2009;-15;Gaylord-Stracke;07/09/2018
+189;1987;-8;"Ratke; Rolfson and Thiel";09/02/2016
+190;2001;5;O'Hara LLC;07/28/2018
+191;2011;19;"Morissette; Hirthe and Willms";01/24/2016
+192;1988;15;Lueilwitz-Bosco;01/08/2018
+193;1997;-2;Gutmann LLC;03/04/2015
+194;2003;1;Feil-Wolf;08/13/2017
+195;2004;-2;Walsh-Heller;03/15/2018
+196;2010;24;Botsford and Sons;07/30/2015
+197;2005;18;Veum LLC;03/23/2015
+198;2007;-12;"Ortiz; King and Morissette";04/23/2015
+199;1992;19;"Weissnat; Bergnaum and Terry";11/08/2017
+200;2012;3;"Gorczany; Treutel and Yundt";05/06/2015
+201;1984;13;"Sauer; Ledner and Johnson";10/25/2017
+202;1998;-5;Schowalter LLC;07/27/2017
+203;2012;9;Dietrich-Kub;01/17/2016
+204;2012;22;Balistreri LLC;11/19/2015
+205;1985;24;Mosciski Inc;10/08/2018
+206;1985;10;Marks Inc;12/07/2015
+207;1996;-1;Walter-Spinka;08/01/2016
+208;2011;-10;"Koss; Hoppe and Lesch";04/09/2015
+209;2005;-2;"Borer; Schultz and Larkin";03/13/2016
+210;2012;5;"Marvin; Senger and MacGyver";04/02/2015
+211;1993;-3;Boehm and Sons;02/22/2017
+212;1993;-9;Yundt and Sons;10/21/2017
+213;1993;-3;Stamm-Fisher;04/10/2016
+214;2009;-3;Leuschke-Feil;06/29/2016
+215;1991;-8;Nolan Group;11/18/2016
+216;2008;25;"Lind; Casper and Bergstrom";09/04/2018
+217;1999;-3;"Gutmann; Ratke and Jakubowski";06/08/2017
+218;2009;-5;Schmeler and Sons;07/03/2018
+219;1972;-7;Jast LLC;11/13/2018
+220;2007;-10;"Langosh; Bogisich and Bechtelar";03/25/2017
+221;2010;-11;Schroeder Inc;05/18/2015
+222;1998;2;Casper LLC;10/03/2015
+223;2007;-9;Stracke and Sons;04/04/2018
+224;1998;0;"Beatty; Kris and White";08/18/2018
+225;2012;13;"Olson; Fahey and Haag";12/13/2015
+226;1999;13;Nienow-Nolan;05/21/2017
+227;2003;15;"Waters; Greenfelder and Cormier";11/12/2015
+228;2012;8;"Hegmann; Willms and Paucek";03/21/2018
+229;2005;22;"Gerlach; Turcotte and Fisher";12/20/2015
+230;1991;17;"Conn; Gottlieb and Jones";11/17/2017
+231;1999;9;Blanda-Heller;05/15/2017
+232;2005;25;"Borer; Fritsch and Wintheiser";02/27/2016
+233;1993;11;"Breitenberg; VonRueden and Cremin";07/14/2016
+234;2007;-2;"Friesen; Weissnat and Dach";03/02/2018
+235;2002;-2;"Baumbach; Borer and Hirthe";03/09/2016
+236;2004;14;Stracke-Crona;06/04/2018
+237;1996;-10;Watsica Group;07/01/2017
+238;1989;-7;"Purdy; Bernhard and Renner";08/09/2015
+239;1996;3;Gerhold and Sons;08/23/2017
+240;1991;20;"Cole; Collins and Koelpin";09/29/2015
+241;1997;-4;"Witting; Haley and Bergstrom";10/23/2015
+242;1988;-6;Buckridge Group;03/25/2017
+243;2004;1;Lesch-Bartell;04/12/2018
+244;2012;14;Schneider-Gusikowski;04/15/2016
+245;1995;11;Lang-Klocko;11/12/2015
+246;2002;22;"Marks; Bernier and Barrows";06/02/2016
+247;2009;-9;Auer and Sons;07/01/2015
+248;2007;7;Schiller-Kertzmann;04/08/2018
+249;2011;22;Daugherty and Sons;12/18/2017
+250;1998;19;"Vandervort; Bayer and Hintz";06/28/2017
+251;1990;13;"Kunze; Smitham and Reynolds";09/11/2017
+252;1996;8;"Bednar; Weber and Hermann";03/04/2016
+253;1995;-14;"Boehm; Bashirian and Kohler";12/29/2016
+254;2003;25;Daugherty-Leffler;11/30/2017
+255;1999;17;"Gulgowski; Hand and Runolfsson";10/15/2017
+256;2010;-4;Quitzon Inc;10/03/2016
+257;1994;12;Graham Inc;06/15/2016
+258;2011;7;Cremin-Lang;04/14/2015
+259;1993;-13;Goodwin-Reichel;12/31/2015
+260;2006;16;"Volkman; Funk and Hilpert";08/18/2015
+261;1968;-12;Pacocha Group;04/11/2015
+262;1993;-9;Mills-Halvorson;05/20/2017
+263;1999;8;"Dickens; Torphy and Thompson";06/25/2016
+264;2008;24;Treutel Inc;12/12/2017
+265;1987;-14;Leuschke-Graham;12/31/2016
+266;2008;-5;Rempel-Spencer;09/15/2016
+267;2006;-14;Howe Inc;06/19/2018
+268;2003;16;Altenwerth-Doyle;07/29/2018
+269;2001;6;"Denesik; Lubowitz and Fisher";08/25/2016
+270;2000;13;"Bahringer; Bins and Mills";09/07/2017
+271;1997;-9;"Quitzon; Heathcote and Towne";09/27/2016
+272;2008;11;O'Keefe-Daniel;11/28/2016
+273;2008;21;"Senger; Grady and Blick";12/27/2017
+274;2007;18;Hartmann Group;07/08/2018
+275;2009;-8;Bode and Sons;12/07/2015
+276;1993;20;"Koss; Champlin and Braun";11/19/2018
+277;1992;-15;Hudson and Sons;08/04/2018
+278;2001;-7;Kreiger and Sons;10/18/2018
+279;2008;5;"Gerhold; Schultz and Jast";11/18/2015
+280;2001;18;Bernier Group;11/29/2018
+281;2005;23;Keebler Group;08/03/2015
+282;1994;15;Feeney and Sons;03/21/2017
+283;2012;-10;"Olson; Quitzon and Kohler";01/26/2016
+284;1992;-12;"Torphy; Schamberger and Kuhn";06/09/2018
+285;1995;12;"Torp; Jaskolski and Hilll";12/02/2016
+286;1984;9;McDermott Inc;08/28/2016
+287;2009;14;"Considine; Flatley and Simonis";08/12/2018
+288;1987;25;Walter and Sons;04/17/2015
+289;2009;-15;Boehm and Sons;11/23/2016
+290;1997;-11;Abernathy and Sons;12/29/2016
+291;2000;16;Beahan LLC;06/08/2018
+292;2003;20;"Boyle; Anderson and Kiehn";07/30/2018
+293;1999;18;Bailey Inc;06/28/2017
+294;2008;12;O'Reilly-Gibson;12/31/2015
+295;2011;5;Hermiston Inc;10/29/2017
+296;2003;23;Hilll Group;05/19/2015
+297;1993;-14;Botsford LLC;08/11/2018
+298;2006;19;Marks LLC;11/15/2017
+299;1994;15;Gutkowski-Rolfson;05/03/2017
+300;2007;-7;Greenholt-Pollich;02/26/2016
+301;2011;0;Buckridge LLC;05/20/2017
+302;2009;-15;Abbott-Hermiston;06/23/2016
+303;2004;-11;Boyle and Sons;08/17/2018
+304;1973;-13;"Romaguera; Donnelly and Maggio";08/06/2016
+305;2011;9;Mitchell LLC;10/29/2018
+306;2001;6;Lehner Group;11/27/2018
+307;1990;-13;Bode and Sons;09/13/2015
+308;1993;-7;Sauer and Sons;07/11/2018
+309;1992;13;Bogan LLC;02/22/2017
+310;2006;9;VonRueden Inc;11/14/2016
+311;2002;-3;"Lebsack; Hartmann and Schinner";08/15/2016
+312;1988;5;Wiegand and Sons;10/15/2016
+313;1996;1;"Bergnaum; Simonis and Daniel";01/23/2018
+314;2005;1;Shields-Carter;05/13/2017
+315;2008;-11;"Prosacco; Rutherford and Sporer";09/17/2017
+316;1992;-9;Ebert Group;05/31/2015
+317;1993;12;Schroeder-Keebler;08/31/2016
+318;2000;-8;"Rutherford; Ratke and Murazik";11/21/2016
+319;2002;-12;Jacobi and Sons;02/12/2017
+320;2000;18;Boehm Group;08/27/2017
+321;2006;8;Stehr Inc;03/25/2016
+322;2009;6;"Wilderman; Schneider and Pagac";10/25/2016
+323;2007;11;Crooks-Lowe;02/06/2017
+324;1985;-6;Kreiger LLC;12/14/2017
+325;1996;19;"Turner; Barrows and Boehm";11/24/2018
+326;1999;-12;Hammes and Sons;03/07/2015
+327;1987;-4;"Tremblay; Fay and Fritsch";05/20/2016
+328;1989;-14;"Wiegand; Bradtke and Gottlieb";05/12/2016
+329;2005;-11;Bauch Inc;07/14/2015
+330;1993;-12;Rath Group;04/01/2015
+331;1997;-8;Boehm-Baumbach;04/09/2017
+332;2007;12;Howell-Lebsack;08/02/2015
+333;2008;15;Stehr-Raynor;08/31/2016
+334;1965;7;"Schuster; Paucek and Okuneva";04/29/2016
+335;1990;2;Stroman LLC;09/12/2015
+336;1990;7;Beier Inc;11/08/2015
+337;1994;9;"Daugherty; Ryan and Haag";07/07/2018
+338;2007;-12;"Wolf; Romaguera and Emmerich";11/27/2018
+339;1995;25;"Zboncak; Reichel and Dare";01/06/2016
+340;2001;24;Labadie Group;08/18/2015
+341;1993;-10;Yundt-Runolfsdottir;03/30/2018
+342;1996;4;Greenfelder LLC;08/14/2015
+343;2010;12;Abshire Inc;03/08/2016
+344;2000;2;"Littel; Gleichner and Kuhic";01/09/2018
+345;1999;-13;"Mertz; Kub and Ruecker";10/09/2018
+346;2009;-5;Koelpin-Mueller;01/10/2016
+347;2012;-15;Russel-Ortiz;02/22/2018
+348;1996;-9;"Macejkovic; Marquardt and Spinka";08/03/2016
+349;1993;2;"Ritchie; Runte and Barton";11/14/2017
+350;2011;-3;Renner Inc;12/28/2016
+351;1993;-14;Barton LLC;11/26/2016
+352;1999;-9;O'Reilly-Wisoky;08/31/2017
+353;2006;7;Bergnaum LLC;09/10/2015
+354;2002;4;"Daniel; Powlowski and Runte";07/23/2018
+355;2002;-11;Carter-Bernhard;09/10/2017
+356;1988;4;Lebsack Inc;10/20/2015
+357;1995;-11;Crist Inc;11/16/2017
+358;1999;-11;Berge-Abshire;05/03/2018
+359;2001;-7;Olson and Sons;11/04/2016
+360;2012;9;"Bergstrom; Morar and Fisher";05/21/2015
+361;2005;-7;DuBuque and Sons;12/27/2015
+362;2010;21;Robel-Fritsch;07/21/2018
+363;1995;4;Pfeffer and Sons;07/24/2018
+364;2002;-2;Osinski-Mitchell;05/01/2016
+365;2005;22;"Volkman; Moen and Block";04/09/2018
+366;2012;5;"O'Keefe; Turcotte and Welch";10/28/2016
+367;1995;0;Pouros and Sons;01/27/2016
+368;1999;10;"Connelly; Thiel and Kautzer";03/02/2015
+369;2011;14;"Predovic; Weissnat and Parker";08/11/2015
+370;1988;3;Spencer-Lynch;07/12/2016
+371;2010;-10;Leuschke Inc;10/18/2015
+372;2010;1;Gulgowski Group;10/19/2017
+373;2009;22;Veum-Keeling;07/08/2017
+374;2009;10;Schroeder-Reinger;05/10/2017
+375;2000;14;"Hansen; Rodriguez and Moore";07/22/2018
+376;2000;-4;"Christiansen; Kiehn and Metz";05/18/2018
+377;2008;7;"Kautzer; MacGyver and Howe";11/05/2015
+378;2004;4;Eichmann-Goldner;05/17/2017
+379;1996;17;McKenzie-Welch;09/27/2017
+380;2005;-13;"Schaden; Lueilwitz and Emmerich";03/25/2017
+381;1996;14;McKenzie Group;03/07/2016
+382;1984;0;Wunsch Inc;03/20/2018
+383;2005;10;Dickinson-Hoppe;05/29/2015
+384;2006;20;Flatley-Dare;03/22/2017
+385;2010;0;Monahan-Bogan;09/19/2017
+386;1992;21;"Keebler; Lubowitz and Wiza";05/16/2017
+387;2009;-3;Jast LLC;09/12/2018
+388;1988;12;"Lebsack; Thiel and Marvin";01/05/2018
+389;2007;-6;"Reynolds; Conroy and Harvey";05/12/2016
+390;1999;22;Johnson Group;05/20/2018
+391;2009;-13;"Walker; Gusikowski and Boyle";01/13/2018
+392;1967;-5;"O'Connell; Schinner and Casper";10/06/2016
+393;2012;16;Gutmann LLC;04/10/2018
+394;1998;21;Welch-Blick;01/26/2018
+395;1984;13;"Connelly; Sawayn and Herman";03/05/2017
+396;1998;22;Grimes Group;12/18/2017
+397;2008;25;"Hegmann; Bode and Reichel";03/18/2018
+398;2009;2;Smith-Emmerich;06/28/2017
+399;1998;1;"Lemke; Dickinson and Kuphal";04/06/2018
+400;2011;1;Rowe Inc;11/16/2015
+401;1994;-2;Wilkinson Inc;11/04/2015
+402;1998;-2;"Bernhard; Konopelski and Haley";03/24/2016
+403;1998;25;"Bayer; Feeney and Rogahn";07/07/2017
+404;1997;-13;"Hermann; Hegmann and Lynch";01/19/2016
+405;1994;-12;Weimann-Toy;06/15/2015
+406;1992;-2;Lebsack LLC;05/02/2017
+407;2009;12;Veum Inc;10/14/2017
+408;2001;14;Marks-Upton;12/26/2017
+409;1990;4;"Flatley; Wehner and Nitzsche";07/08/2018
+410;2007;-5;"Murphy; Stark and Sipes";12/19/2017
+411;1996;-15;"Yundt; Reynolds and Lubowitz";05/01/2015
+412;2003;7;Swift Inc;03/05/2018
+413;1994;-15;"Konopelski; Bahringer and Mertz";03/20/2018
+414;2001;0;Cremin-Flatley;09/01/2015
+415;2007;6;Cartwright Group;10/24/2018
+416;2002;-14;"Rutherford; Champlin and Bode";08/06/2018
+417;2002;-1;"O'Keefe; Swift and Hintz";12/18/2016
+418;2008;14;Stark-Smith;06/26/2017
+419;2006;1;Wunsch Group;08/18/2017
+420;2008;20;Bosco and Sons;08/16/2017
+421;1997;3;"Wisoky; Hermiston and Skiles";08/07/2017
+422;2000;13;Luettgen-D'Amore;05/23/2018
+423;1997;0;Pfannerstill Group;06/15/2018
+424;1998;-3;Blanda Inc;10/06/2015
+425;1993;-5;Homenick Inc;10/18/2016
+426;2003;8;Torp-Pacocha;05/15/2018
+427;2012;22;"Gerhold; Paucek and Green";01/29/2016
+428;1998;8;"Collins; McClure and Boyer";11/25/2015
+429;2001;13;Bartell Group;03/07/2015
+430;1998;22;"Bednar; Goyette and Goldner";12/27/2016
+431;2011;-7;"Hodkiewicz; Bosco and Baumbach";11/19/2017
+432;1978;-9;Luettgen and Sons;04/21/2016
+433;2001;23;Harris-Collier;03/27/2017
+434;2007;21;"Cormier; Buckridge and Morissette";04/29/2016
+435;1987;25;Muller LLC;05/22/2016
+436;2002;-11;"Wilderman; Lakin and Mueller";08/08/2017
+437;1999;0;Hansen Inc;07/04/2015
+438;1996;4;Maggio-Lubowitz;04/10/2016
+439;1993;14;Collier-Mann;09/13/2017
+440;1994;-2;McCullough-Gottlieb;03/13/2016
+441;2000;-15;Turner-Schuster;09/24/2017
+442;2008;24;Wilderman-Schinner;11/27/2016
+443;2013;-9;"Simonis; Balistreri and Lesch";10/30/2016
+444;2009;-10;Wunsch Group;08/02/2018
+445;2001;21;Davis LLC;01/01/2017
+446;2002;16;Smitham and Sons;11/30/2017
+447;1991;-10;"Brown; Huels and Parisian";06/01/2015
+448;2008;-10;MacGyver LLC;04/09/2015
+449;2008;11;"Osinski; Corkery and Witting";11/11/2015
+450;1994;-8;Terry Group;11/08/2016
+451;2004;-9;"Kling; Bayer and Marquardt";09/08/2018
+452;1987;10;Schmitt-Heathcote;04/23/2017
+453;2008;19;Spencer-Emmerich;01/29/2017
+454;1992;23;Dibbert and Sons;05/08/2015
+455;1992;11;Lockman-Gislason;08/20/2018
+456;1996;4;"Batz; Monahan and Gleichner";07/26/2018
+457;2005;-3;Carroll Group;12/07/2016
+458;2011;10;"Rogahn; Mraz and Stroman";01/11/2018
+459;1992;19;"Muller; Stehr and Kovacek";09/22/2017
+460;2005;-6;"Abshire; Ferry and DuBuque";07/14/2015
+461;2013;14;Huels Inc;09/09/2016
+462;1984;-11;Green-Connelly;03/06/2016
+463;1991;8;Collins and Sons;09/05/2016
+464;1992;7;"Maggio; Wehner and Greenfelder";08/15/2016
+465;1999;-2;"Padberg; Runolfsdottir and Renner";12/30/2015
+466;2004;0;Mosciski Inc;04/14/2015
+467;1996;17;Barrows-Schulist;09/30/2016
+468;2004;13;Trantow-Lockman;08/18/2017
+469;2004;25;"Reichert; Spinka and Murray";09/20/2016
+470;2005;-9;Ullrich-Grady;01/23/2018
+471;1999;19;Batz and Sons;05/06/2017
+472;1989;9;"Koss; Leffler and Mueller";04/18/2016
+473;2007;18;Casper-Schamberger;12/09/2016
+474;2009;3;Simonis-Abbott;11/10/2016
+475;2004;-12;Casper-Schiller;10/31/2015
+476;2008;13;"Daugherty; Grady and Sporer";01/19/2017
+477;1994;-15;"Gottlieb; Gottlieb and Bogan";01/02/2016
+478;2006;7;Huels-Wuckert;12/01/2015
+479;1984;-2;D'Amore-Weissnat;11/13/2015
+480;2011;-14;Bode-Towne;05/23/2016
+481;2009;25;Smitham Inc;03/18/2018
+482;2012;-12;Torp Group;09/15/2018
+483;1985;8;"Anderson; Braun and Kilback";08/14/2016
+484;1991;-15;Pacocha-Wehner;11/17/2016
+485;1998;16;Schiller Inc;01/14/2018
+486;2003;-7;"Fay; Langosh and Schuster";06/26/2018
+487;2002;21;Prohaska and Sons;05/02/2018
+488;1999;-4;Leffler-Price;01/11/2016
+489;1997;-12;Cole and Sons;05/08/2018
+490;2000;-5;"Hane; Mante and Ratke";08/09/2016
+491;2010;-8;Haag and Sons;07/25/2018
+492;1993;-7;Langosh-Volkman;05/18/2015
+493;2005;-9;Stamm Group;01/12/2018
+494;1995;-15;"Harris; Dare and Halvorson";06/15/2015
+495;2003;-8;Rohan-Lindgren;07/18/2015
+496;1989;0;Erdman and Sons;12/26/2016
+497;1986;22;Lind Group;04/23/2015
+498;1986;6;Little Group;10/11/2017
+499;2002;18;Pollich-O'Kon;11/19/2017
+500;1985;19;"Smitham; MacGyver and Kihn";07/08/2017
+501;1995;-1;Goyette-Bergstrom;08/16/2015
+502;2008;17;"Carroll; McCullough and O'Connell";06/08/2018
+503;2005;6;Kihn-Cummings;05/12/2017
+504;2008;13;Hodkiewicz-Schmeler;08/18/2016
+505;1985;-14;Effertz-Wintheiser;11/17/2018
+506;2004;-15;"Monahan; Runolfsson and Reichel";08/20/2016
+507;2003;18;Lind-Hauck;03/08/2016
+508;2011;2;Mann LLC;04/07/2015
+509;1992;3;Sawayn LLC;03/03/2018
+510;2011;4;Greenholt Inc;03/11/2017
+511;1994;-3;McGlynn-Weimann;08/12/2017
+512;1997;11;Stanton-Huels;11/16/2018
+513;1994;9;"Adams; Gorczany and Borer";08/05/2017
+514;1992;3;"Bergstrom; Nader and Jakubowski";07/12/2017
+515;1997;-11;"Hettinger; Veum and Rice";08/15/2016
+516;1997;17;Leffler Group;04/16/2018
+517;2004;2;Ebert-Hyatt;04/20/2017
+518;2003;5;"Fritsch; Yundt and Champlin";07/23/2015
+519;2000;7;Lindgren LLC;05/11/2017
+520;2007;11;Prohaska-Kilback;04/28/2017
+521;1995;-3;West and Sons;06/22/2016
+522;2010;3;"Lehner; Haag and Casper";07/01/2017
+523;2011;7;"Mante; Johnson and Okuneva";07/12/2016
+524;2000;-7;"Hessel; Bartoletti and Rolfson";08/20/2017
+525;2010;14;Becker Inc;02/16/2018
+526;2004;18;"Toy; Bergstrom and Skiles";11/27/2016
+527;2000;7;Ferry-Bernier;11/04/2017
+528;1992;-15;"Fadel; Lesch and Wisoky";11/02/2018
+529;2012;6;"Anderson; Maggio and Funk";09/01/2015
+530;1987;-1;Gulgowski Inc;04/07/2016
+531;2009;9;"Klein; Walter and Green";12/13/2015
+532;2012;19;Jacobs and Sons;05/11/2017
+533;1994;14;Towne and Sons;10/21/2018
+534;2003;18;"Nolan; Treutel and Prohaska";08/04/2018
+535;1992;20;"Kreiger; Armstrong and Swift";07/03/2016
+536;1986;2;"Schuster; Funk and Gulgowski";11/04/2016
+537;2012;12;Hermiston Group;03/09/2015
+538;2002;-7;Kilback-Jenkins;08/21/2018
+539;2004;1;Olson-Hamill;01/03/2018
+540;1993;-5;Goldner Group;10/19/2018
+541;2008;-4;"Collier; Littel and Schaefer";09/08/2018
+542;2003;-7;Bosco-Nienow;09/23/2018
+543;1993;15;Wintheiser-Okuneva;01/11/2018
+544;1996;18;"Franecki; Breitenberg and Dare";09/17/2017
+545;1991;18;Gislason LLC;04/03/2017
+546;1966;-14;Batz Group;03/03/2016
+547;1987;-11;"Green; Pfeffer and Steuber";12/18/2017
+548;1996;0;Walker Group;08/18/2017
+549;2011;-7;Prohaska and Sons;07/06/2018
+550;2000;13;Effertz-Koelpin;04/29/2015
+551;1986;-15;"Ryan; Howell and Spinka";04/22/2015
+552;1999;4;"Berge; Cremin and O'Keefe";11/28/2016
+553;2000;2;Morar Inc;11/22/2015
+554;1984;-2;Cummerata LLC;04/21/2016
+555;2011;15;"Von; Hayes and Wisozk";03/28/2017
+556;2007;13;Aufderhar LLC;04/07/2017
+557;2005;2;Huels Group;09/23/2017
+558;2007;-8;"Berge; Simonis and Orn";02/18/2017
+559;2008;-10;Little-Volkman;10/09/2015
+560;1986;-10;Hoeger and Sons;07/23/2017
+561;2005;-13;Rutherford-Walter;03/04/2018
+562;1988;20;"Kuphal; Zboncak and Bednar";05/04/2015
+563;1994;-7;"Casper; West and Walsh";08/16/2018
+564;2008;-1;Hessel-Kirlin;06/11/2017
+565;1996;-10;Baumbach and Sons;10/17/2018
+566;2004;19;"Nicolas; Nolan and Hansen";08/29/2015
+567;2001;25;"Ortiz; Ankunding and Russel";03/14/2015
+568;2003;22;"Parker; Sipes and Stroman";06/07/2016
+569;1993;17;Ratke-Feeney;05/11/2015
+570;2003;-1;Bosco-VonRueden;10/29/2016
+571;2000;15;"Larkin; Kuhic and Thiel";08/15/2016
+572;1993;-5;Davis-McDermott;05/21/2015
+573;2002;13;Ratke Inc;09/09/2017
+574;2001;-5;Reichel and Sons;04/13/2016
+575;2011;-7;"Moen; Jacobs and Runolfsdottir";05/05/2015
+576;2002;25;"Weimann; Hermann and Treutel";07/12/2015
+577;2012;10;Friesen-Durgan;05/23/2015
+578;1999;-9;"Koch; Farrell and Spencer";12/28/2015
+579;2001;20;"Halvorson; Rath and Hills";08/17/2015
+580;2002;-3;Rutherford-Brekke;07/03/2017
+581;2006;-8;Brown-Welch;09/28/2016
+582;2004;4;Dare-Sanford;02/02/2018
+583;2009;14;Denesik-O'Keefe;08/05/2015
+584;2006;10;Shanahan LLC;10/13/2016
+585;2002;-2;Cormier LLC;12/30/2017
+586;2005;8;Kovacek-Ritchie;06/29/2018
+587;2006;13;Jerde LLC;11/09/2018
+588;2002;19;Bashirian-Treutel;08/16/2017
+589;2005;0;Pfeffer Group;05/19/2016
+590;1993;-7;"Haag; Ebert and Corwin";09/07/2016
+591;2002;-4;"Green; Kling and Little";12/15/2015
+592;2000;-3;Hilpert-Langosh;09/29/2015
+593;2008;-13;Ferry LLC;06/11/2015
+594;1983;-10;Ondricka-O'Hara;10/05/2016
+595;2006;1;Volkman-Heller;05/25/2016
+596;1990;-14;Willms-Brakus;09/15/2016
+597;2008;9;"Zieme; Purdy and Kuphal";12/04/2017
+598;1997;-13;Douglas-Hackett;01/11/2016
+599;2011;10;"Hamill; Blanda and Upton";09/18/2017
+600;2012;-7;Beer and Sons;08/03/2015
+601;2009;9;"Wolff; Ernser and Cartwright";03/16/2015
+602;2011;21;"Haag; McGlynn and Ziemann";08/19/2017
+603;2002;0;Jenkins-Wintheiser;07/11/2017
+604;1996;2;"Cole; Barrows and Anderson";09/05/2015
+605;1990;-13;Langworth-Dibbert;04/01/2017
+606;1995;-5;Crona Inc;03/29/2018
+607;2005;7;Boyle-Larson;09/05/2015
+608;2001;-5;"Brakus; Heathcote and Schiller";03/04/2016
+609;1996;-11;"Hammes; DuBuque and Kuphal";08/22/2017
+610;1997;3;Schmitt Group;10/26/2017
+611;2008;1;Kunde-Zemlak;08/12/2017
+612;2000;18;Schuppe-Brown;04/16/2015
+613;2004;-13;Legros Group;07/19/2018
+614;2012;-6;Mraz-Upton;08/21/2015
+615;1995;-15;Haag-Kling;05/18/2017
+616;1992;25;Mraz-Marquardt;05/10/2018
+617;1991;20;Durgan and Sons;07/07/2017
+618;2002;4;Morissette-Bergstrom;04/12/2016
+619;2009;10;Schroeder-Conn;09/16/2017
+620;1995;2;"Bartoletti; McClure and Hirthe";11/12/2016
+621;2012;6;Goodwin Group;04/12/2015
+622;2007;10;Kiehn and Sons;05/12/2015
+623;2000;18;Blick-Kilback;04/18/2018
+624;2012;20;"Jakubowski; Roob and Kunde";07/15/2015
+625;1996;17;Mraz-Feest;10/07/2015
+626;2004;16;"Hegmann; Luettgen and Connelly";09/19/2017
+627;2009;19;"Rice; Hoeger and Dicki";08/21/2018
+628;2002;22;"Waelchi; Steuber and Kemmer";08/06/2015
+629;2007;-1;"Sporer; Schneider and Mante";06/25/2015
+630;2013;18;Hammes-Bahringer;04/16/2018
+631;1997;9;Altenwerth-Hudson;11/27/2016
+632;2011;18;"Keeling; Bins and Bernier";10/02/2017
+633;2008;5;"Rutherford; Kling and Fahey";09/12/2017
+634;1993;-14;Rodriguez Inc;05/18/2016
+635;2008;5;Marvin Group;10/28/2015
+636;2001;7;Langworth and Sons;09/22/2018
+637;2000;1;Anderson Group;12/10/2015
+638;2012;-14;"Legros; Heidenreich and Rogahn";08/09/2017
+639;1981;7;Renner and Sons;05/19/2015
+640;1999;24;Satterfield and Sons;04/10/2017
+641;2005;-13;"Koepp; Jenkins and Cruickshank";07/05/2016
+642;2008;12;Ernser and Sons;04/25/2016
+643;1999;-11;Huels Group;06/08/2016
+644;2002;16;"Larkin; Schinner and Beer";10/05/2015
+645;2006;-11;Runte Inc;05/21/2018
+646;2006;20;"Jaskolski; Marks and Mann";03/12/2017
+647;2009;1;"Bartell; Turner and Daniel";06/18/2017
+648;2000;-10;Bartoletti-Schroeder;01/24/2016
+649;2006;21;Marquardt-Ernser;10/07/2017
+650;2004;-15;Simonis-Ankunding;08/06/2016
+651;1998;17;Crona Inc;02/28/2016
+652;1973;14;"Roob; Mayert and Olson";12/09/2017
+653;1993;-9;"Conn; Welch and Ferry";05/14/2017
+654;1994;13;Gorczany-Kling;09/16/2016
+655;1992;-3;Fay-Stokes;08/11/2017
+656;2003;5;Leffler Inc;08/05/2018
+657;1976;13;Hayes LLC;11/05/2017
+658;2005;21;Kemmer-Koch;09/24/2015
+659;1996;-5;Cummerata and Sons;09/21/2016
+660;2009;3;Rogahn-Kuhn;11/07/2015
+661;2004;11;Cassin-Pacocha;04/12/2018
+662;2005;-13;Flatley Group;01/21/2016
+663;1999;4;Crooks and Sons;07/30/2015
+664;2009;10;"Klocko; Mosciski and Kuphal";06/12/2018
+665;2001;14;"Nader; Funk and Littel";04/08/2016
+666;2004;25;Kris-Gerlach;07/30/2015
+667;2008;-4;"Kassulke; Jacobs and Klocko";08/07/2017
+668;1985;22;Koepp-Lynch;07/12/2018
+669;2009;-5;Swift-Wisozk;03/02/2017
+670;2003;-15;Steuber and Sons;04/13/2018
+671;1992;20;Gleichner-Von;08/06/2016
+672;2000;-2;Ankunding-Morar;05/07/2018
+673;2010;7;Roob-Wiegand;01/22/2018
+674;1999;-15;Murazik-Jones;08/27/2016
+675;2002;21;"O'Keefe; Ledner and Rolfson";10/02/2017
+676;2001;18;"Russel; Runolfsson and Monahan";06/12/2015
+677;1992;14;Schoen-Gorczany;04/07/2018
+678;2001;23;DuBuque Inc;05/04/2016
+679;1995;1;"Wuckert; Tremblay and Hettinger";06/11/2016
+680;2008;-15;Larkin and Sons;07/30/2015
+681;1997;-6;Kub-Hickle;07/22/2015
+682;2007;22;Ruecker Group;11/28/2016
+683;2005;-4;Thompson-King;09/13/2015
+684;1989;-13;"Quigley; Kertzmann and Pfannerstill";07/14/2018
+685;1991;6;Gulgowski LLC;01/27/2018
+686;2012;5;Treutel-Dach;10/19/2016
+687;2008;19;McGlynn-Nikolaus;09/30/2018
+688;1995;-8;"Kilback; Rodriguez and Willms";11/21/2016
+689;2005;10;"Hilll; Predovic and Kemmer";04/23/2017
+690;2011;17;"Purdy; Lockman and Anderson";10/25/2016
+691;1991;-12;Boehm Group;01/13/2018
+692;1999;3;Carroll Inc;11/16/2017
+693;1990;25;Simonis-Bode;05/16/2016
+694;1997;-14;Nicolas and Sons;05/20/2016
+695;2007;-6;Hansen-Wiza;05/22/2018
+696;2005;-9;Jerde LLC;08/30/2018
+697;2000;14;Ferry-Weissnat;02/04/2016
+698;1994;-10;Kunde LLC;06/08/2017
+699;2003;12;Luettgen LLC;08/27/2016
+700;1997;2;Schulist Group;04/02/2018
+701;2010;9;"Huels; Zboncak and Hickle";12/18/2017
+702;1999;-1;Langworth-Schamberger;07/30/2015
+703;1993;-2;Thiel-Feil;01/09/2018
+704;1991;15;"Streich; Grady and Crooks";04/29/2016
+705;1988;21;Abbott-Wilderman;11/22/2017
+706;2008;17;Olson-Boehm;08/21/2017
+707;1991;5;"Wunsch; Wiza and Flatley";08/24/2018
+708;1996;-15;"Ebert; Hayes and Casper";01/26/2017
+709;2000;16;"Leuschke; Buckridge and Thiel";09/02/2017
+710;1999;-1;Von-Hills;11/21/2015
+711;1992;6;"Dickens; Bernier and Denesik";11/05/2016
+712;1993;-14;Parker Group;08/03/2016
+713;2007;-4;"Lubowitz; Cremin and Tromp";05/03/2017
+714;2005;20;Kutch-Becker;04/08/2018
+715;2006;-12;"Gerhold; Morar and Rosenbaum";05/31/2015
+716;2003;22;"Roberts; Flatley and Keeling";03/05/2016
+717;1986;8;Hermann-Brekke;07/24/2015
+718;1993;-12;Cole Inc;09/12/2017
+719;2009;7;Veum Inc;08/01/2018
+720;2000;5;"McLaughlin; Dietrich and Durgan";09/22/2018
+721;2000;12;Koelpin-McClure;04/07/2017
+722;2012;2;Ledner-Anderson;01/24/2018
+723;2008;9;"Kunze; Stehr and Larkin";08/14/2016
+724;2012;-5;Denesik Inc;03/24/2017
+725;2012;14;Koss-Roob;02/19/2016
+726;2002;19;Hyatt and Sons;06/20/2018
+727;1997;24;Ullrich-Pagac;07/10/2018
+728;2008;-12;Cremin-Windler;11/12/2016
+729;2002;-10;Lueilwitz Inc;10/06/2016
+730;1992;-7;Larkin-Thiel;10/13/2017
+731;2002;12;Quigley-Bauch;01/12/2017
+732;2008;13;Frami Inc;06/08/2016
+733;1970;11;"Osinski; Bernier and Hessel";09/02/2015
+734;2006;21;Auer-Waelchi;08/21/2015
+735;2004;17;"Boyle; Brakus and Oberbrunner";06/20/2016
+736;2012;-4;"Beatty; Muller and Witting";09/24/2016
+737;1991;17;"Ward; Emard and Dickens";09/26/2016
+738;2005;-4;Mueller LLC;02/22/2016
+739;1962;-3;Casper LLC;09/11/2016
+740;1998;16;"Reichel; Tremblay and Bartell";09/09/2017
+741;2006;-6;Quitzon-Parisian;05/19/2016
+742;1987;-5;"Wisozk; Reynolds and Emard";09/09/2018
+743;2005;-7;Dooley-Carroll;06/30/2016
+744;2006;2;Farrell-Morissette;05/09/2015
+745;1976;-8;Friesen-McDermott;06/23/2017
+746;1994;19;Quitzon and Sons;11/26/2017
+747;2002;-12;Balistreri LLC;07/05/2018
+748;1986;21;"Kris; Mertz and Streich";08/21/2016
+749;1988;18;Mueller and Sons;06/10/2016
+750;1997;-5;Champlin and Sons;08/07/2016
+751;1986;15;Heidenreich-Langosh;04/28/2017
+752;1978;15;"Gottlieb; Graham and Harvey";04/08/2015
+753;2003;-4;Carter-Schiller;06/07/2015
+754;1989;19;Schmitt and Sons;07/29/2018
+755;1996;8;"Harris; Cronin and Cummerata";02/17/2017
+756;2005;14;"Leannon; Skiles and Cruickshank";08/24/2017
+757;1995;-13;Kulas-Gaylord;09/16/2017
+758;1995;8;Feeney-Rohan;10/27/2017
+759;1994;21;Fahey-Davis;06/02/2018
+760;1988;-12;Bashirian Group;07/22/2018
+761;2000;-12;Mayert-Macejkovic;05/28/2017
+762;2002;21;McGlynn-Luettgen;07/04/2016
+763;2005;16;"Gerhold; Gerhold and Frami";02/05/2018
+764;1998;5;Jacobs and Sons;05/19/2017
+765;1999;22;Carter Inc;01/20/2016
+766;2004;-11;"Swaniawski; Lehner and Stoltenberg";09/15/2015
+767;2008;4;Yost and Sons;06/30/2017
+768;1996;-5;Breitenberg and Sons;05/03/2017
+769;2008;-14;Eichmann-Bauch;08/10/2015
+770;2010;0;Zulauf Inc;05/17/2017
+771;1998;-5;"Lowe; Wolff and Dicki";08/03/2016
+772;1990;-3;"Grady; Robel and Hilpert";08/09/2016
+773;2007;-4;"Grady; Rau and Pouros";02/05/2017
+774;2008;12;Grimes-Boyer;08/31/2018
+775;1999;11;Miller Group;11/25/2017
+776;1999;4;Berge LLC;12/16/2017
+777;2002;23;Rippin Group;04/15/2017
+778;2000;9;Gaylord-Hauck;12/07/2015
+779;2010;16;Steuber Inc;08/13/2018
+780;1996;-2;Nienow Group;03/26/2015
+781;1991;1;"Hansen; Stroman and Collins";03/17/2018
+782;2012;-4;"Heller; Weber and Fahey";01/31/2016
+783;2003;-1;"Barrows; Grady and Stiedemann";04/08/2018
+784;1999;-14;Schinner Group;07/03/2016
+785;2003;6;Ward Inc;05/09/2015
+786;2005;11;"Johnson; Hoppe and Cummerata";04/16/2015
+787;2006;24;Corkery and Sons;04/07/2017
+788;2004;5;Goodwin-Schoen;02/20/2017
+789;1993;8;Corkery-Bahringer;05/06/2017
+790;2005;7;Gleichner LLC;05/23/2016
+791;2006;20;"Morar; McKenzie and Waters";05/11/2017
+792;2002;-8;"Von; Feest and Hessel";12/16/2015
+793;1998;5;Leannon Group;08/08/2017
+794;2010;20;"Abshire; Franecki and Nicolas";05/05/2016
+795;2005;10;"Murazik; Schinner and Corkery";07/17/2017
+796;2007;-13;Reynolds Inc;05/14/2016
+797;2011;-14;Boyle Inc;02/14/2017
+798;1994;-10;Dibbert Inc;11/03/2018
+799;1991;11;Harvey LLC;07/15/2016
+800;2005;13;Blanda-Bergstrom;08/28/2015
+801;2012;-15;Bashirian-Kling;05/11/2016
+802;2007;17;Schimmel LLC;11/27/2018
+803;2010;21;Lowe-Bradtke;03/04/2018
+804;2009;15;Dickens-Smith;04/17/2016
+805;2004;24;"Kuvalis; Greenholt and Altenwerth";10/13/2017
+806;2005;18;"Stark; Bogan and Goldner";01/05/2016
+807;2008;15;"McGlynn; Thiel and Schmidt";05/22/2017
+808;2010;10;Kunde and Sons;01/07/2017
+809;2008;16;Crooks-Wunsch;08/18/2016
+810;2007;-9;"Schinner; Kilback and Labadie";03/31/2016
+811;1989;-13;"Satterfield; Watsica and Barrows";01/09/2018
+812;2005;19;Von-Gaylord;05/24/2018
+813;1992;18;Sipes-Reichel;06/17/2015
+814;1999;0;Collins LLC;06/12/2017
+815;2005;-8;Haley Inc;09/24/2015
+816;1996;-15;Zulauf Inc;06/18/2018
+817;2008;8;Hilll LLC;09/17/2018
+818;2004;5;Becker Group;12/01/2017
+819;1972;-4;Mitchell-Ratke;12/27/2016
+820;2007;21;"Effertz; Dickinson and Abbott";01/06/2017
+821;2007;-14;"Bergnaum; Durgan and Zboncak";05/26/2015
+822;2009;-8;"Miller; Schmeler and Runolfsson";01/05/2017
+823;2005;10;Schmidt-Cole;08/30/2017
+824;1993;22;Pfannerstill LLC;10/22/2015
+825;2006;-4;Stokes-Hermiston;10/16/2015
+826;1958;24;"Parisian; Kuhn and Stroman";07/14/2016
+827;2008;-7;Wiza LLC;10/04/2015
+828;2004;3;Nienow-Willms;01/30/2017
+829;1997;12;Steuber Inc;08/26/2017
+830;1995;13;Corkery LLC;03/08/2015
+831;2009;24;Douglas Group;08/08/2015
+832;1998;-10;Bogisich Inc;05/03/2015
+833;1989;-6;Tillman Inc;08/30/2017
+834;2007;10;"Yundt; Huels and Cassin";06/20/2015
+835;1993;-11;"Barton; Paucek and Bergstrom";04/15/2018
+836;2011;5;Baumbach-Bartell;08/16/2016
+837;2008;1;"Krajcik; Predovic and McKenzie";09/20/2018
+838;1998;0;"Weber; Weber and Batz";06/29/2018
+839;1988;-7;Gutmann Inc;07/10/2017
+840;2004;-12;Frami-Bradtke;09/07/2018
+841;1985;-15;"Kirlin; Trantow and Zieme";03/26/2017
+842;1992;-10;Smith-Parker;06/11/2017
+843;2011;16;Keeling-Gutkowski;06/16/2016
+844;2005;18;Hilpert Inc;10/15/2017
+845;1986;-13;Becker Inc;07/26/2016
+846;2003;2;Wiza Inc;09/18/2017
+847;2004;-12;Ankunding-Fadel;10/19/2017
+848;2001;14;Bartell Group;04/09/2017
+849;1990;-3;"Nicolas; Ward and Murazik";09/14/2016
+850;2006;6;Ziemann Inc;08/16/2017
+851;2011;-11;Schowalter and Sons;07/16/2016
+852;2011;18;Ernser LLC;03/12/2015
+853;2000;4;"Waelchi; Hauck and Wilderman";11/30/2016
+854;2010;19;Adams Group;07/17/2015
+855;1998;-13;Ferry LLC;02/23/2018
+856;2010;-9;Bernier-Purdy;05/18/2017
+857;1993;10;Cormier-Hilpert;08/18/2017
+858;2006;-1;"Shanahan; McCullough and Moore";05/04/2018
+859;2011;-7;"Collier; Nitzsche and Bogisich";06/19/2017
+860;2011;18;White LLC;05/17/2018
+861;1994;5;Halvorson Inc;10/22/2017
+862;2009;8;Bergnaum-Lebsack;09/03/2018
+863;1983;-6;DuBuque-O'Kon;08/15/2015
+864;2011;4;Veum LLC;05/07/2018
+865;2001;21;Bechtelar-Simonis;10/15/2017
+866;1999;19;"Auer; Armstrong and Greenfelder";10/06/2015
+867;2001;0;"Bradtke; Kuphal and Hilll";05/17/2017
+868;1992;19;"Lowe; Torphy and Ondricka";11/18/2017
+869;2011;8;"Schiller; Willms and Lehner";03/31/2016
+870;2008;2;Runolfsdottir and Sons;04/22/2015
+871;1997;-11;Jaskolski-Ullrich;09/14/2016
+872;2003;-4;Cronin LLC;10/13/2017
+873;2004;1;Wyman Inc;08/30/2016
+874;2008;-7;Wisozk Inc;02/25/2017
+875;1992;15;Schinner-Mann;07/01/2015
+876;1998;22;Bailey Group;09/30/2016
+877;1968;10;Metz-Mann;03/16/2016
+878;2006;6;Braun-Johnston;03/29/2015
+879;2002;9;Sawayn-Nader;09/25/2017
+880;1990;-8;Schinner-Denesik;01/16/2016
+881;2004;24;Franecki Inc;03/23/2018
+882;1973;25;"Sipes; Stracke and Watsica";04/26/2016
+883;2011;4;"Feil; Schmidt and Brakus";04/08/2017
+884;2000;0;Lind LLC;03/02/2016
+885;2009;-14;Sanford and Sons;04/09/2015
+886;2008;0;Tremblay LLC;08/12/2016
+887;1994;25;Schimmel-Schuster;10/31/2017
+888;1987;2;Rice-Ziemann;11/28/2016
+889;1964;24;Herzog-Kertzmann;07/23/2016
+890;2008;3;Heller-Marquardt;04/03/2018
+891;2003;2;Hoppe Inc;01/16/2016
+892;1990;-1;"Robel; Lakin and Schultz";06/13/2015
+893;1993;15;"Lynch; Wuckert and Dooley";10/13/2018
+894;1981;9;Wyman and Sons;03/22/2018
+895;2009;13;Schowalter-Walter;06/18/2017
+896;1998;16;Heaney-Pouros;09/17/2015
+897;1996;-6;Padberg-Hilll;04/05/2017
+898;1993;-9;"Altenwerth; Bruen and Harris";04/30/2016
+899;1992;4;Schiller LLC;04/09/2017
+900;1990;-15;"Bauch; Collier and Bogisich";08/06/2015
+901;2012;-10;"Jacobs; Hyatt and Morissette";04/22/2017
+902;2008;11;"Weissnat; Kuhlman and Mitchell";12/09/2017
+903;2000;-15;"Terry; Price and Gottlieb";08/25/2015
+904;1999;0;Corkery Group;10/04/2018
+905;2000;22;Abbott-Wilkinson;06/12/2015
+906;2009;-11;"Spinka; Rath and Ankunding";10/26/2016
+907;1999;1;Schumm-Ledner;01/11/2017
+908;1987;-6;Hettinger-Lang;01/05/2017
+909;1993;1;Harvey-Dickinson;05/13/2016
+910;2007;-8;"Kuhn; Quitzon and Pfeffer";05/02/2018
+911;1996;-10;"Okuneva; Koepp and Dooley";03/25/2017
+912;1999;20;Schultz-Baumbach;07/13/2016
+913;1992;-5;Mills-Yost;06/26/2018
+914;1997;10;Casper and Sons;06/26/2018
+915;1998;0;Konopelski LLC;12/14/2016
+916;1999;-15;Stark-Botsford;10/17/2015
+917;1997;0;Jenkins-Connelly;09/15/2017
+918;1984;3;Hane LLC;08/21/2017
+919;2000;8;Mann Group;05/21/2015
+920;1992;-5;Rowe and Sons;05/31/2016
+921;2008;19;Barton-Towne;06/22/2018
+922;1990;9;Prosacco LLC;06/08/2017
+923;1990;-3;"Dare; Kerluke and Rodriguez";07/30/2018
+924;1985;-5;"Littel; Lueilwitz and Bogisich";07/12/2018
+925;2005;18;"Kiehn; Lakin and Konopelski";11/08/2016
+926;1997;17;Gislason and Sons;05/27/2016
+927;1991;24;Dare LLC;04/13/2016
+928;2012;-10;Funk LLC;07/03/2017
+929;2012;3;"Goyette; Schinner and Hane";12/13/2016
+930;2007;-15;Schroeder-Jacobs;06/21/2018
+931;2008;12;Lind-Turcotte;09/26/2017
+932;2004;25;"Spencer; Simonis and Wiza";09/06/2017
+933;2008;-7;Crona-Halvorson;01/05/2017
+934;2008;20;Jaskolski LLC;05/10/2018
+935;1985;-7;Schoen-Stark;08/01/2017
+936;2002;-8;Effertz Group;05/19/2017
+937;2008;1;"Wiza; Price and Nader";02/27/2016
+938;1999;12;McGlynn Group;01/21/2016
+939;2005;11;"McClure; Schultz and Romaguera";02/12/2018
+940;2003;-7;Bernier LLC;09/29/2015
+941;1989;-15;"Nolan; Tillman and Kautzer";07/14/2016
+942;1994;24;O'Reilly-Crist;12/03/2015
+943;2002;-10;"Ferry; Blanda and Pollich";07/27/2017
+944;2006;5;White LLC;01/21/2016
+945;2008;5;"Donnelly; Ondricka and Olson";02/01/2017
+946;2006;12;Rolfson LLC;11/20/2018
+947;2010;2;Muller and Sons;05/26/2018
+948;2008;15;Kihn-Robel;03/21/2016
+949;1998;5;Kihn-Bailey;04/15/2018
+950;2002;-14;Pacocha Inc;06/16/2016
+951;1992;24;"Mueller; Ledner and Gottlieb";04/23/2018
+952;1987;6;"Eichmann; Morar and Goyette";06/27/2018
+953;1996;8;Feil-Crona;04/08/2017
+954;2000;18;"Tillman; Rosenbaum and Friesen";05/06/2016
+955;1996;3;"Schuppe; Gerlach and Gottlieb";02/28/2017
+956;1999;11;"Gibson; Abernathy and Gerhold";05/06/2018
+957;2000;-1;Dickinson-Johnston;08/31/2018
+958;1992;14;Dibbert-Steuber;03/06/2017
+959;1994;21;"Bauch; Borer and Kreiger";08/20/2017
+960;1994;-8;Mohr-Jerde;03/23/2016
+961;2010;25;Bogan-Ziemann;11/20/2018
+962;1996;6;Witting-Will;09/25/2017
+963;2008;-6;Bradtke Inc;05/29/2015
+964;1990;-9;Romaguera-Pollich;04/26/2017
+965;2002;4;Reichel-Labadie;09/22/2018
+966;2006;22;Zieme-Tromp;05/13/2017
+967;1969;11;Douglas and Sons;04/28/2016
+968;1988;10;Casper-Hettinger;08/26/2015
+969;2011;-10;Orn-Cummings;08/07/2017
+970;1990;12;"Sipes; Kohler and Hoppe";12/19/2016
+971;2009;13;Murazik and Sons;03/02/2018
+972;1993;0;"Trantow; Deckow and Mertz";03/14/2017
+973;1999;-11;Hartmann-Kassulke;09/10/2016
+974;1995;5;Brown-Kihn;07/07/2016
+975;2010;1;Kertzmann-King;12/01/2015
+976;2009;5;Heidenreich-Crooks;07/21/2015
+977;1998;4;Von LLC;01/03/2016
+978;2012;13;Gislason LLC;10/29/2018
+979;1995;19;"Wisoky; Reinger and Reichel";06/28/2016
+980;2010;-14;Lind Group;06/28/2015
+981;2008;14;Breitenberg-Bernhard;01/03/2016
+982;1992;-10;Douglas Group;05/08/2018
+983;1998;-10;Hammes and Sons;10/26/2015
+984;1997;12;Murphy-Miller;06/24/2017
+985;1991;22;Parisian-Kuvalis;04/25/2016
+986;2010;3;Kemmer Group;03/11/2016
+987;2005;-10;"Cruickshank; Konopelski and Green";05/22/2015
+988;2007;-11;Connelly Inc;11/16/2018
+989;2011;5;"Schimmel; Strosin and O'Conner";04/05/2016
+990;1984;15;Lubowitz-Schuppe;11/03/2016
+991;2007;21;Runolfsson-Schulist;11/16/2016
+992;1961;6;Dare Group;10/26/2015
+993;2010;14;Kozey Group;06/06/2017
+994;2004;-3;"Moen; Mante and Beier";04/22/2017
+995;2001;-9;"Pagac; Abshire and Balistreri";09/03/2015
+996;2006;24;"Shields; Brakus and McCullough";04/21/2016
+997;1993;12;Waelchi-Bailey;01/31/2016
+998;2004;3;"Osinski; Kunde and Leuschke";09/13/2016
+999;2013;13;Wilderman Group;03/14/2017
+1000;1994;7;Kunde-Boyer;06/14/2016

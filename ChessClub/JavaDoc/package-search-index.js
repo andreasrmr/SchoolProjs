@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"adminManagement"},{"l":"cashierManagement"},{"l":"chairmanManagement"},{"l":"chessSystem"},{"l":"org.mindrot.jbcrypt"},{"l":"teamLeaderManagement"}]

@@ -1,0 +1,16 @@
+memberNumber;firstName;lastName;birthDay;gender;cpr;phoneNumber;email;dateOfCreation;paymentStatus;typeOfMembership
+1;Jonis;Emlen;19/03/1965;Female;8888888888;77777777;jemlen0@salon.com;12/07/2012;true;SENIOR
+2;Renado;Kohler;03/01/1956;Male;8888888888;77777777;rkohler1@hc360.com;15/04/2009;false;SENIOR
+3;Irv;Blanch;18/11/1984;Male;8888888888;77777777;iblanch2@phoca.cz;31/08/2018;false;SENIOR
+4;Wilt;Artist;11/08/1970;Male;8888888888;77777777;wartist3@vk.com;18/02/2011;true;SENIOR
+5;Lucky;Pember;01/07/1992;Female;8888888888;77777777;lpember4@biblegateway.com;04/12/2011;false;SENIOR
+6;Cacilia;McKellar;22/11/1951;Female;8888888888;77777777;cmckellar5@histats.com;20/08/2010;false;SENIOR
+7;Haroun;Wallice;08/11/1976;Male;8888888888;77777777;hwallice6@cargocollective.com;20/04/2007;true;SENIOR
+8;Anni;Seifert;06/11/1968;Female;8888888888;77777777;aseifert7@360.cn;01/04/2018;true;SENIOR
+9;Thadeus;Radborn;28/05/1993;Male;8888888888;77777777;tradborn8@accuweather.com;13/11/2018;false;SENIOR
+10;Lurette;Sellner;30/10/1980;Female;8888888888;77777777;lsellner9@sogou.com;20/09/2006;true;SENIOR
+11;Terrance;Ridpath;03/10/1992;Male;8888888888;77777777;tridpatha@webs.com;09/12/2012;true;SENIOR
+12;Myles;Pastor;04/06/1993;Male;8888888888;77777777;mpastorb@archive.org;30/01/2007;false;SENIOR
+13;Lindon;Marlowe;23/05/1992;Male;8888888888;77777777;lmarlowec@bing.com;28/12/2017;false;SENIOR
+14;Sal;Spire;22/07/1969;Male;8888888888;77777777;sspired@weather.com;06/02/2009;false;SENIOR
+15;Sidonnie;Fryer;15/08/1963;Female;8888888888;77777777;sfryere@ted.com;01/05/2013;true;SENIOR

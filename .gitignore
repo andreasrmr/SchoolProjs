@@ -1,0 +1,5 @@
+*.class
+*.vpp.bak*
+*BuildABaseDB*
+*Database/TableInfo/temp.tsv
+*.idea*

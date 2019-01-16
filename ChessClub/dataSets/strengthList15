@@ -1,0 +1,16 @@
+listID;memberNumber;playerRating;tournamentName;tournamentDate
+1;2004;10;Marvin-Haley;05/22/2016
+2;2012;8;Mills Group;10/19/2016
+3;2011;24;O'Connell Group;08/28/2016
+4;2001;10;Sipes Group;07/20/2017
+5;1996;24;Morar Group;06/12/2016
+6;2005;25;Goodwin Inc;03/13/2016
+7;2006;3;"Hane; Hand and Mayer";04/20/2018
+8;1997;6;Swaniawski Group;08/21/2018
+9;1991;21;Ullrich and Sons;06/07/2015
+10;1999;0;"Grant; Gottlieb and Watsica";03/14/2015
+11;2011;22;"Hyatt; Nolan and Hodkiewicz";08/14/2017
+12;1996;14;Casper and Sons;08/13/2017
+13;2012;15;Bradtke Group;06/30/2015
+14;2009;25;"Gaylord; Jakubowski and Emmerich";11/07/2017
+15;1992;-13;Miller Inc;10/28/2015

@@ -1,0 +1,5 @@
+username;password;role
+admin;$2a$10$zJ8Fv7JQXHbgdELQc3jmI.85XaGbTN6C/QML8b4467GGgeIrVlPKe;admin
+cm;$2a$10$zJ8Fv7JQXHbgdELQc3jmI.85XaGbTN6C/QML8b4467GGgeIrVlPKe;chairman
+cr;$2a$10$zJ8Fv7JQXHbgdELQc3jmI.85XaGbTN6C/QML8b4467GGgeIrVlPKe;cashier
+tl;$2a$10$zJ8Fv7JQXHbgdELQc3jmI.85XaGbTN6C/QML8b4467GGgeIrVlPKe;teamleader
