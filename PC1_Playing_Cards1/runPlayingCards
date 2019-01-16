@@ -1,0 +1,2 @@
+javac -g -sourcepath src src/runPlayingCards.java -d out/production/PlayingCards
+java -cp out/production/PlayingCards runPlayingCards
