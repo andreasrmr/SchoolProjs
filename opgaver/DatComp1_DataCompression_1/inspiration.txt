@@ -178,7 +178,7 @@ public class FileHandler {
             }
         }
         else {
-        System.out.println("Filecheck failed. check if file: " + file + " exists and can be read");
+            System.out.println("Filecheck failed. check if file: " + file + " exists and can be read");
         }
         return true;
     }

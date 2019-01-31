@@ -1,0 +1,6 @@
+Plan nummer et:
+1. Lav en scanner der kan scanne filen for forskellige chars.
+2. Bestem hvor mange bytes / bits vi skal bruge for at hele filen er dækket ind.
+3. tildel bytes / bits til hver char.
+4. Gem filen i bytes / bits.
+5. se om den fylder mindre?
