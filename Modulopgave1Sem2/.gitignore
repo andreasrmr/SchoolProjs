@@ -1,11 +1,3 @@
-*.class
-*.vpp.bak*
-*BuildABaseDB*
-*Database/TableInfo/temp.tsv
-*.idea*
-/out/*
-/database/old/*
-
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -17,6 +9,9 @@
 .settings
 .springBeans
 .sts4-cache
+
+/out/*
+/database/old/*
 
 ### IntelliJ IDEA ###
 .idea

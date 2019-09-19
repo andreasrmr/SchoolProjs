@@ -1,0 +1,8 @@
+1	Befolkningen ultimo forrige år
+2	Levendefødte
+3	Døde
+4	Indvandret i indeværende år
+5	Indvandret før indeværende år
+6	Udvandret i indeværende år
+7	Udvandret før indeværende år
+8	Korrektioner
